@@ -7,6 +7,15 @@ This repository contains a structured review of publicly available records relat
 
 The materials compile IRS Forms 990, the published settlement agreement, California Secretary of State filings, property records, and publicly available reporting to assess reported asset transfers, valuation changes, governance structures, and settlement-authorized distributions.
 
+## Download Documents
+
+- [Main Narrative – Valley Rock Foundation Settlement Review (PDF)](Valley-Rock-Foundation-Settlement-Review.pdf)
+- [Exhibit 1 – Timetable of Public Records (PDF)](Exhibit-1-Timetable-of-Public-Records.pdf)
+- [Exhibit 2 – Veritas Refuge Valuation Illustrative Model (PDF)](Exhibit-2-Veritas-Refuge-Valuation-Illustrative-Model.pdf)
+- [Exhibit 3 – Donor-Advised Fund Reconstruction Model (PDF)](Exhibit-3-Donor-Advised-Fund-Reconstruction-Model.pdf)
+- [Exhibit 4 – Main Portfolio Benchmark Comparison (PDF)](Exhibit-4-Main-Portfolio-Benchmark-Comparison.pdf)
+- [Exhibit 5 – Table of Public Record References (PDF)](Exhibit-5-Table-of-Public-Record-References.pdf)
+
 This repository is presented as an archive of public records and analytical exhibits for informational and public accountability purposes.
 
 ---
