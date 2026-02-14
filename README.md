@@ -1,5 +1,7 @@
 # Valley Rock Foundation Settlement Review (2025)
-Independent analysis of public records relating to the Valley Rock Foundation, Celeste White, and Robert White, based solely on documented filings and official sources.
+Independent analysis of public records concerning the Valley Rock Foundation, Celeste White, and Robert White, based solely on documented filings and official sources.
+
+Permanent DOI: https://doi.org/10.5281/zenodo.18644075
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18644075.svg)](https://doi.org/10.5281/zenodo.18644075)
 
@@ -92,3 +94,30 @@ These analyses are not formal appraisals, audits, or performance determinations.
 The purpose of this repository is to preserve and organize publicly available records and related analytical exhibits concerning the Valley Rock Foundation settlement in a transparent and accessible format.
 
 No confidential or non-public materials are included.
+
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "Valley Rock Foundation Settlement Review: Public Records Analysis",
+  "datePublished": "2026-02-14",
+  "author": {
+    "@type": "Organization",
+    "name": "Independent 990 Researchers"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "identifier": "https://doi.org/10.5281/zenodo.18644075",
+  "about": [
+    "Valley Rock Foundation",
+    "charitable governance",
+    "nonprofit financial reporting",
+    "public records analysis",
+    "California Attorney General settlement"
+  ]
+}
+</script>
