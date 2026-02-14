@@ -6,7 +6,7 @@ Independent Research Archive — Public Records Analysis Series
 Independent 990 Researchers (2026) *Valley Rock Foundation Settlement Review: Public Records Analysis*. Zenodo. https://doi.org/10.5281/zenodo.18644075
 
 The materials compile IRS Forms 990, the published settlement agreement, California Secretary of State filings, property records, and publicly available reporting to assess reported asset transfers, valuation changes, governance structures, and settlement-authorized distributions.
-## Overview
+
 ## Full Documentation
 
 - [Main Narrative – Valley Rock Foundation Settlement Review (PDF)](Valley-Rock-Foundation-Settlement-Review.pdf)
