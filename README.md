@@ -1,6 +1,9 @@
 # Valley Rock Foundation Settlement Review (2025)
-Independent Research Archive — Public Records Analysis Series
+Independent analysis of public records relating to the Valley Rock Foundation, Celeste White, and Robert White, based solely on documented filings and official sources.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18644075.svg)](https://doi.org/10.5281/zenodo.18644075)
+
+Independent Research Archive — Public Records Analysis Series
 
 ## Citation
 Independent 990 Researchers (2026) *Valley Rock Foundation Settlement Review: Public Records Analysis*. Zenodo. https://doi.org/10.5281/zenodo.18644075
