@@ -5,6 +5,8 @@ Permanent DOI: https://doi.org/10.5281/zenodo.18644075
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18644075.svg)](https://doi.org/10.5281/zenodo.18644075)
 
+Summary Article: https://medium.com/@independent990researchers/millions-in-charitable-assets-one-settlement-the-public-records-819ff20fa9df
+
 Independent Research Archive — Public Records Analysis Series
 
 ## Citation
